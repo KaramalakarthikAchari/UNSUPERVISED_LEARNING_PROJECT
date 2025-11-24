@@ -12,7 +12,7 @@ customer-segmentation-unsupervised-ml/
 │   ├── 03_kmeans_clustering.ipynb
 │   └── 04_cluster_profiling.ipynb
 │
-├── images/
+├── images/.
 │   ├── clusters_visualization.png
 │   ├── elbow_method.png
 │   ├── silhouette_score.png
